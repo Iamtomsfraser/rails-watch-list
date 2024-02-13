@@ -1,0 +1,8 @@
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+  object-fit: cover;
+  background-position: center;
+  height: 50vh;
+}
